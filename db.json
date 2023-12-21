@@ -134,5 +134,26 @@
     }
   ],
   "posts": [],
-  "users": []
+  "users": [
+    {
+      "email": "mario@gmail.com",
+      "password": "$2a$10$Oh97PDcWanli/syEH7JkGOlr6tNtxhzS/yk.uyleOSwSNuJkNUtEC",
+      "name": "Mario Rossi",
+      "id": 1
+    }
+  ],
+  "conti": [
+    {
+      "id": 1,
+      "intestatario": "Gabriele",
+      "saldo": 1100,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "intestatario": "Gabriele",
+      "saldo": 1100,
+      "userId": 2
+    }
+  ]
 }
