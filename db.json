@@ -133,7 +133,16 @@
       "id": 22
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "userId": 1,
+      "title": "Ciao",
+      "text": "Ciao a tutti!",
+      "pokemonId": "",
+      "published": true,
+      "id": 1
+    }
+  ],
   "users": [
     {
       "email": "mario@gmail.com",
