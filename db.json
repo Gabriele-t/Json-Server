@@ -164,5 +164,17 @@
       "saldo": 1100,
       "userId": 2
     }
+  ],
+  "purchases": [
+    {
+      "userId": 1,
+      "movieId": 787699,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "movieId": 787699,
+      "id": 2
+    }
   ]
 }
