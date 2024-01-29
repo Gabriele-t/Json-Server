@@ -168,23 +168,8 @@
   "purchases": [
     {
       "userId": 1,
-      "movieId": 787699,
-      "id": 1
-    },
-    {
-      "userId": 1,
       "movieId": 572802,
-      "id": 2
-    },
-    {
-      "userId": 1,
-      "movieId": 609681,
-      "id": 3
-    },
-    {
-      "userId": 1,
-      "movieId": 940551,
-      "id": 4
+      "id": 1
     }
   ]
 }
