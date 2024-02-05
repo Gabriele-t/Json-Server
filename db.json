@@ -1,11 +1,5 @@
 {
   "users": [
-    {
-      "email": "mario@gmail.com",
-      "password": "$2a$10$Oh97PDcWanli/syEH7JkGOlr6tNtxhzS/yk.uyleOSwSNuJkNUtEC",
-      "name": "Mario Rossi",
-      "id": 1
-    }
   ],
   "purchases": [
   ]
