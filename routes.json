@@ -2,5 +2,5 @@
     "/users*": "/600/users$1",
     "/conti*": "/600/conti$1",
     "/posts*": "/644/posts$1",
-    "/purchases*": "/644/purchases$1"
+    "/purchases*": "/640/purchases$1"
 }

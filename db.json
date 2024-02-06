@@ -1,6 +1,17 @@
 {
   "users": [
+    {
+      "email": "gabriele108@icloud.com",
+      "password": "$2a$10$2h9xeU0nYNLcNRq.jBWriO1c5/Gwd7fdcmd5rrv2ncsSl8daxpkhe",
+      "name": "Gabriele",
+      "id": 1
+    }
   ],
   "purchases": [
+    {
+      "userId": 1,
+      "movieId": 866398,
+      "id": 1
+    }
   ]
 }
