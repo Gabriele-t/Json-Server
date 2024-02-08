@@ -7,11 +7,5 @@
       "id": 1
     }
   ],
-  "purchases": [
-    {
-      "userId": 1,
-      "movieId": 866398,
-      "id": 1
-    }
-  ]
+  "purchases": []
 }
