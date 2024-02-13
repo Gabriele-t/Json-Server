@@ -8,10 +8,5 @@
     }
   ],
   "purchases": [
-    {
-      "userId": 1,
-      "movieId": 866398,
-      "id": 1
-    }
   ]
 }
