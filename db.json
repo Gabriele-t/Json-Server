@@ -8,5 +8,11 @@
     }
   ],
   "purchases": [
+    {
+      "userId": 1,
+      "movieId": 787699,
+      "poster_path": "/d81h1ux3kDgvX8z8hhrdRqJToog.jpg",
+      "id": 2
+    }
   ]
 }
